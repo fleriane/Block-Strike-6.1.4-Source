@@ -1,0 +1,6 @@
+Block Strike
+com.abobus.bska
+6.1.4
+1903
+True
+False
